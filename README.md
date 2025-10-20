@@ -1,3 +1,4 @@
+**Site publicado com sucesso! Forçando novo build na Vercel.**
 # 🔮 Tarot com IA - Sua Jornada de Autoconhecimento
 
 ## 🌟 Sobre o Projeto
