@@ -1,6 +1,7 @@
 @import 'react-day-picker/dist/style.css';
-@import "tailwindcss";
-
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
 
 @custom-variant dark (&:is(.dark *));
 
@@ -119,3 +120,4 @@
     @apply bg-background text-foreground;
   }
 }
+
